@@ -1,4 +1,4 @@
-# RepositorioDeTalle1
+# Repositorio Del Talle 1.
 Este es el repositorio para el taller núnero 1  POO Cantera nivel 2
 # taller 1.
 ## Canteras nivel 2 - taller 1.
